@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="p3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p3">
+				<Option output="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/cmake-build-debug/p3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p3/fast">
+				<Option output="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/cmake-build-debug/p3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/lionp/OneDrive/Documents/COMP\ SCI\ 354/p3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/mem.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/mem.h">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/align.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/align2.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/align3.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/alloc.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/alloc2.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/alloc2_nospace.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/alloc3.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/alloc_nospace.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/bestfit.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/coalesce1.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/coalesce2.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/coalesce3.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/coalesce4.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/coalesce5.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/coalesce6.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/free2.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/free3.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/tests/writeable.c">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/lionp/OneDrive/Documents/COMP SCI 354/p3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
